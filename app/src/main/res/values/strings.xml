@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScanStress</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="scan_wakelock">ScanStress wakelock</string>
+    <string name="keep_awake">Keep awake</string>
+    <string name="num_times">Num Times:</string>
+    <string name="_100">100</string>
+    <string name="scan_timeout_ms">Scan Timeout (ms):</string>
+    <string name="_1000">1000</string>
+    <string name="sleep_time_ms">Sleep Time (ms):</string>
+    <string name="_0">0</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="read_count">read count:</string>
+    <string name="mis_read_count">mis-read count:</string>
+    <string name="timeout_count">Timeout count:</string>
+    <string name="min_ms">Min ms:</string>
+    <string name="max_ms">Max ms:</string>
+    <string name="avg_ms">Avg ms:</string>
+</resources>
